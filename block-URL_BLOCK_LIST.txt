@@ -1,4 +1,4 @@
- https://ic3.com.ph/wp-content/upgrade/onlinemetrobank/
+ https://ic3.com.ph/wp-content/upgrade/onlinemetrobank/ sysanalyticweb.com *.3movs.com *.8muses.com
  sysanalyticweb.com
 *.3movs.com
 *.4tube.com
